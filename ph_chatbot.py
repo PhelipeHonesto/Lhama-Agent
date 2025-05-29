@@ -1,3 +1,4 @@
+# ph_chatbot.py atualizado para GPT-4o
 import openai
 import os
 from dotenv import load_dotenv
@@ -18,4 +19,3 @@ class PHChatBot:
         )
 
         return resposta_openai.choices[0].message.content.strip()
-# Exemplo de uso
