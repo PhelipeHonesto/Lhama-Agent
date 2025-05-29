@@ -1,3 +1,6 @@
 langchain-openai
 python-dotenv
 openai
+flask
+twilio
+=======
