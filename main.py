@@ -6,7 +6,8 @@ from twilio.twiml.messaging_response import MessagingResponse
 
 # A classe PHChatBot é fornecida em outro módulo do projeto
 # e possui um metodo responder(texto: str) -> str
-from ph_chatbot import PHChatBot  # type: ignore
+from ph_chatbot import PHChatBot
+  # type: ignore
 
 # Carrega variáveis de ambiente definidas no arquivo `.env`
 load_dotenv()
