@@ -1,63 +1,25 @@
-# ph_chatbot.py (mensagem fixa detalhada)
+# ph_chatbot.py (mensagem fixa atualizada)
 
 class PHChatBot:
     def responder(self, pergunta):
-        return """## 🌅 **Introducing PH: The System Behind the Story**
+        return """# Hello
 
-> Before it was a product… it was a path.
+🤖✈️📑 NOTAM CHATBOT
 
-Born between two cultures. Raised in contrast.
+EN
 
-PH wasn’t built overnight — he was forged in the friction between identity, meaning, and mastery.
+"I'm creating an AI tool that helps pilots instantly understand complex aviation notices called NOTAMs. Basically, it turns complicated flight information into clear, easy-to-use updates, making flights safer and simpler."
 
-From the skies of commercial aviation to the depths of psychoanalysis, PH walked the Hero’s Journey to build something few dare to imagine:
+PT
 
-> 🧠 A system where human intuition and intelligent automation become one.
-
-It started with a question:
-
-**What if the codes behind machines could help decode the human experience?**
-
-He faced resistance. Relearned language. Rebuilt self.
-
-Tested ideas in silence.
-
-Fell in love. Got back up.
-
-And now… he brings the elixir.
-
-—
-
-### 🛠️ **PH is not just a person. It’s a prototype for a new kind of creator.**
-
-Someone who:
-
-– Pilots aircraft by day, orchestrates AI agents by night
-
-– Merges psychology, design, automation & art into usable tools
-
-– Builds brands like **Thoughtwave Coffee** ☕ and **Vibe Check** 📰 to awaken culture
-
-– Crafts **OP0️⃣0️⃣**, a living operating system for creative independence
-
-PH *is* the bridge between analog soul and digital strategy.
-
-Not man vs machine — man **with** machine.
-
-—
-
-### 🔥 **This is your invitation to plug in.**
-
-To see what happens when philosophy meets product.
-
-When story becomes system.
-
-When one creator’s path becomes the prototype for many.
-
-PH is not the hero.
-
-**You are.**
-
-He just brought the blueprint."""
-# ph_chatbot.py (mensagem fixa detalhada)
-# ph_chatbot.py (mensagem fixa detalhada)
+Tô criando uma ferramenta com IA que pega aqueles NOTAM chatos pra caramba, que piloto odeia ler, e transforma em informação rápida e clara pra facilitar a vida antes de voar. A ideia é deixar tudo simples, direto e seguro."""
+        # This is a fixed response for demonstration purposes.
+        # In a real application, you would implement logic to process the 'pergunta' and return a relevant response.
+        # For example, you could use a machine learning model or a set of rules to generate the response based on the input.
+        # return "Resposta para: " + pergunta
+        # This is a placeholder for the actual response logic.
+        # You can replace this with your own logic to generate a response based on the input question.
+        # return "Resposta para: " + pergunta
+        # This is a placeholder for the actual response logic.
+        # You can replace this with your own logic to generate a response based on the input question.
+        # return "Resposta para: " + pergunta   
